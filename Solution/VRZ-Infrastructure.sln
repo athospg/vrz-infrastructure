@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.64
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VRZ.Infrastructure", "VRZ.Infrastructure\VRZ.Infrastructure.csproj", "{B095E372-5F92-45CF-9747-D0F815262E85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4873D27C-3585-4ACB-9B59-9C2958A6860E}"
+	ProjectSection(SolutionItems) = preProject
+		..\.editorconfig = ..\.editorconfig
+		.editorconfig = .editorconfig
+		..\.gitattributes = ..\.gitattributes
+		..\.gitignore = ..\.gitignore
+		.gitignore = .gitignore
+		..\CONTRIBUTING.md = ..\CONTRIBUTING.md
+		..\git-revision.sh = ..\git-revision.sh
+		..\LICENSE.md = ..\LICENSE.md
+		..\README.md = ..\README.md
+		testsettings.xml = testsettings.xml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B095E372-5F92-45CF-9747-D0F815262E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B095E372-5F92-45CF-9747-D0F815262E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B095E372-5F92-45CF-9747-D0F815262E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B095E372-5F92-45CF-9747-D0F815262E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {905C3AC3-588F-422E-9258-1DD991E0D6E4}
+	EndGlobalSection
+EndGlobal
